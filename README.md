@@ -128,3 +128,4 @@ Bug reports are appreciated and may be filed through the
 [issue tracker](https://github.com/dabeaz-course/practical-python/issues).
 Pull requests are not accepted except by invitation. Please file an issue first.
 
+### Making a minor commit to test a few things out.
